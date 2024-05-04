@@ -1,5 +1,4 @@
 #!/usr/bin/node
-'use strict';
 const myObject = {
   type: 'object',
   value: 12
